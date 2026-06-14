@@ -1,10 +1,10 @@
 [
   {
-    "id": "jornada_actual",
-    "local": "Venezuela",
-    "localFlag": "🇻🇪",
-    "visitante": "Brasil",
-    "visitaFlag": "🇧🇷"
+    "id": "jornada_2",
+    "local": "colombia",
+    "localFlag": "🇨🇴",
+    "visitante": "chile",
+    "visitaFlag": "🇨🇿"
   }
 ]
 
