@@ -1,10 +1,10 @@
 [
   {
-    "id": "jornada_2",
-    "local": "colombia",
-    "localFlag": "🇨🇴",
-    "visitante": "chile",
-    "visitaFlag": "🇨🇿"
+    "id": "jornada_1",
+    "local": "Real Madrid",
+    "localFlag": "🇪🇸",
+    "visitante": "Barcelona",
+    "visitaFlag": "🇪🇸",
+    "cierre": "Cierra el Sábado a las 3:00 PM"
   }
 ]
-
