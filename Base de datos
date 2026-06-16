@@ -8,3 +8,13 @@
     "cierre": "Cierra el Sábado a las 3:00 PM"
   }
 ]
+[
+  {
+    "id": "jornada_1_Grupo_I",
+    "local": "Francia",
+    "localFlag": "🇫🇷",
+    "visitante": "Senegal",
+    "visitaFlag": "🇸🇳",
+    "cierre": "Cierra el Martes a las 4:00 PM"
+  }
+]
