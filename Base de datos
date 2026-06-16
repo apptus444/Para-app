@@ -5,10 +5,8 @@
     "localFlag": "🇪🇸",
     "visitante": "Barcelona",
     "visitaFlag": "🇪🇸",
-    "cierre": "Cierra el Sábado a las 3:00 PM"
-  }
-]
-[
+    "cierre": "Cerrado"
+  },
   {
     "id": "jornada_2",
     "local": "Francia",
@@ -16,5 +14,5 @@
     "visitante": "Senegal",
     "visitaFlag": "🇸🇳",
     "cierre": "Cierra el Martes a las 4:00 PM"
-  }
-]
+  } 
+] 
