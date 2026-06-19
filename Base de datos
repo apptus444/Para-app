@@ -15,4 +15,12 @@
     "visitaFlag": "🇸🇳",
     "cierre": "Cierra el Martes a las 4:00 PM"
   } 
-] 
+] ,
+  {
+    "id": "jornada_2",
+    "local": "Francia",
+    "localFlag": "🇺🇸",
+    "visitante": "Senegal",
+    "visitaFlag": "🇦🇺",
+    "cierre": "Cierra a las 5:00 PM"
+  }
