@@ -22,5 +22,13 @@
     "visitante": "Australia",
     "visitaFlag": "🇦🇺",
     "cierre": "Cierra a las 5:00 PM"
-  } 
+  },
+  {
+    "id": "jornada_4",
+    "local": "Alemania",
+    "localFlag": " 🇩🇪",
+    "visitante": "Costa de Marfil",
+    "visitaFlag": "🇨🇮",
+    "cierre": "Cierra el Martes a las 4:00 PM"
+  }
 ]
