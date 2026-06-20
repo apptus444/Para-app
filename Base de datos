@@ -30,5 +30,13 @@
     "visitante": "Costa de Marfil",
     "visitaFlag": "🇨🇮",
     "cierre": "Cierra el Martes a las 4:00 PM"
+  },
+  {
+    "id": "jornada_5",
+    "local": "Ecuador",
+    "localFlag": "🇪🇨",
+    "visitante": "Curazao",
+    "visitaFlag": "🇨🇼",
+    "cierre": "Cierra a las 10:00 PM"
   }
 ]
