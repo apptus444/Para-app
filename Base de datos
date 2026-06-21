@@ -38,5 +38,13 @@
     "visitante": "Curazao",
     "visitaFlag": "🇨🇼",
     "cierre": "Cierra a las 10:00 PM"
+  },
+  {
+    "id": "jornada_6",
+    "local": "España",
+    "localFlag": "🇪🇸",
+    "visitante": "Arabia Saudi",
+    "visitaFlag": "🇸🇦",
+    "cierre": "Cierra hoy a las 3:00 PM"
   }
 ]
