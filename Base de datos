@@ -46,5 +46,13 @@
     "visitante": "Arabia Saudi",
     "visitaFlag": "🇸🇦",
     "cierre": "Cierra hoy a las 3:00 PM"
+  },
+  {
+    "id": "jornada_7",
+    "local": "Uruguay",
+    "localFlag": "🇺🇾",
+    "visitante": "Cabo Verde",
+    "visitaFlag": "🇨🇻",
+    "cierre": "Cierra a las 8:30 PM"
   }
 ]
