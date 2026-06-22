@@ -54,5 +54,13 @@
     "visitante": "Cabo Verde",
     "visitaFlag": "🇨🇻",
     "cierre": "Cierra a las 8:30 PM"
+  },
+  {
+    "id": "jornada_8",
+    "local": "Nueva zelanda",
+    "localFlag": "🇳🇿",
+    "visitante": "Egipto",
+    "visitaFlag": "🇪🇬",
+    "cierre": "Cierra Mañana a las 10:00 am"
   }
 ]
