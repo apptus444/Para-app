@@ -70,5 +70,13 @@
     "visitante": "Austria",
     "visitaFlag": "🇦🇹",
     "cierre": "Cierra a las 3:00 PM"
+  },
+  {
+    "id": "jornada_10",
+    "local": "Portugal",
+    "localFlag": "🇵🇹",
+    "visitante": "Uzbekistán",
+    "visitaFlag": "🇺🇿",
+    "cierre": "Cierra  a las 3:00 PM"
   }
 ]
