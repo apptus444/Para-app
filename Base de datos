@@ -78,5 +78,13 @@
     "visitante": "Uzbekistán",
     "visitaFlag": "🇺🇿",
     "cierre": "Cierra  a las 3:00 PM"
+  },
+  {
+    "id": "jornada_11",
+    "local": "Ecuador",
+    "localFlag": "🇪🇨",
+    "visitante": "Alemania",
+    "visitaFlag": "🇩🇪",
+    "cierre": "Cierra  a las 6:00 PM"
   }
 ]
